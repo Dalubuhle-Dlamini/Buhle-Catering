@@ -1,0 +1,109 @@
+.container{
+    position: relative;
+    margin-top: 20px;
+}
+
+.c-banner-text h1{
+    display: flex;
+    letter-spacing: 5px;
+    font-size: 40px;
+    color: #fff;
+    width: 650px;
+    background-image: linear-gradient(to right, #161414, rgba(0, 0, 0, 0.329));
+    position: absolute;
+    top: 160px;
+    left: 100px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.line-red{
+    border-left: #8b0606 solid 5px;
+    height: 60px;
+    margin-right: 10px;
+}
+
+.banner-img{
+    height: 500px;
+}
+
+.cc-head, .cc-text, .cc-course-details, .cc-course-details{
+    width: 80%;
+    max-width: 1600px;
+}
+
+.cc-head{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.line-cc{
+    border-left: solid 5px #8b0606;
+    height: 40px;
+    margin-right: 8px;
+}
+
+.cc-text p {
+    line-height: 1.8;
+    color: #8a8a8a;
+    font-size: 18px;
+    margin-bottom: 20px
+}
+
+.cc-course-details h1{
+    font-family: 'Roboto Slab', serif;
+    color: #8b0606;
+    margin-bottom: 20px;
+}
+
+.cc-course-1{
+    width: 100%;
+    display: grid;
+    place-items: center;
+    margin: 40px auto;
+}
+
+.tg  {
+    border-collapse:collapse;
+    border-spacing:0;
+    width: 100%;
+    max-width: 1600px;
+}
+
+.tg td{
+    border-color:black;
+    border-style:solid;
+    border-width:1px;
+    font-size:17px;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+}
+
+.tg th{
+    border-color:black;
+    border-style:solid;
+    border-width:1px;
+    font-size:17px;
+    font-weight:normal;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+}
+
+.tg .tg-v06i{
+    background-color:#fbfbfb;
+    border-color:#7a7a7a;
+    color:#8b0606;
+    font-weight:bold;
+    text-align:left;
+    vertical-align:top
+}
+
+.tg .tg-yrkj{background-color:#ffffff;
+    border-color:#7a7a7a;
+    color:#7a7a7a;
+    text-align:left;
+    vertical-align:top
+}
